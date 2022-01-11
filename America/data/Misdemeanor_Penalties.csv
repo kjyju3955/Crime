@@ -1,0 +1,132 @@
+State,,Classification,Max_Jail_Term,Max_Fine ($),Traffic,A,,sub,Average
+Alabama,AL,Class A,1 year,6000,o,v,3166.666667,9,7
+,,Class B,6 months,3000,,,,,
+,,Class C,3 months,500,,,,,
+Alaska,AK,Class A,1 year,10000,x,,6000,9,7.5
+,,Class B ,90 days,2000,,,,,
+Arizona,AZ,Class 1,6 months,2500,o,v,1250,5,3.7
+,,Class 2,4 months,750,,,,,
+,,Class 3,30 days,500,,,,,
+Arkansas,AR,Class A,1 year,2500,x,,,11,5.3
+,,Class B ,90 days,1000,,,,,
+,,Class C,30 days,500,,,,,
+,,Unclassified,Crime specific,Crime specific,,,,,
+California,CA,General,6 months,1000,x,v,1000,6,9
+,,Gross,364 days,1000,,,,,
+Colorado,CO,Class 1,18 months,5000,o,,,12,13.2
+,,Class 2,12 months,5000,,,,,
+,,Class 3,6 months,750,,,,,
+,,Drug 1,18 months,5000,,,,,
+,,Drug 2,12 months,750,,,,,
+Connecticut,CT,Class A,1 year,2000,x,v,937.5,11,5.5
+,,Class B ,6 months,1000,,,,,
+,,Class C,3 months,500,,,,,
+,,Class D,30 days,250,,,,,
+,,Unclassified,Crime specific,Crime specific,,,,,
+Delaware,DE,Class A,1 year,2300,o,,,11,6.3
+,,Class B ,6 months,1150,,,,,
+,,Unclassified,30 days,575,,,,,
+District of Columbia,,,,,,,,,
+Florida,FL,First degree,12 months,1000,x,v,750,10,7
+,,Second degree,60 days,500,,,,,
+Georgia,GA,General,12 months,1000,o,,,12,12
+Hawaii,HI,General,1 year,2000,x,,1500,11,6.5
+,,Petty,30 days,1000,,,,,
+Idaho,ID,General,6 months,1000,x,v,1000,6,6
+Illinois,IL,Class A,364 days,2500,x,v,1833.333333,11,6.3
+,,Class B ,180 days,1500,,,,,
+,,Class C,30 days,1500,,,,,
+Indiana,IN,Class A,1 year,5000,o,,,11,6.3
+,,Class B ,180 days,1000,,,,,
+,,Class C,60 days,500,,,,,
+Iowa,IA,Aggravated,2 years,6250,x,v,2916.666667,21,12.3
+,,Serious,1 year,1875,,,,,
+,,Simple,30 days,625,,,,,
+Kansas,KS,Class A,1 year,2500,o,v,1333.333333,11,6.3
+,,Class B ,6 months,1000,,,,,
+,,Class C,1 month,500,,,,,
+Kentucky,KY,Class A,12 months,500,x,v,375,9,7.5
+,,Class B ,90 days,250,,,,,
+Lousiana,LA,Crime specific,,,o,,,,
+Maine,ME,Class D,1 year,2000,o,v,1500,6,9
+,,Class E,6 months,1000,,,,,
+Maryland,MD,Crime specific,10 years,5000,x,v,2750,117,61.5
+,,,90 days,500,,,,,
+Massachusetts,MA,General,1 year,300,x,v,5100,11,6.5
+,,Crime specific,30 months,5000,,,,,
+,,Crime specific,Not specified,10000,,,,,
+Michigan,MI,General,90 days,500,,v,500,3,3
+Minnesota,MN,Gross,1 year,3000,x,v,2000,9,7.5
+,,General,90 days,1000,,,,,
+Mississippi,MS,Crime specific,,,o,,,,
+Missouri,MO,Class A,1 year,2000,o,v,1233.333333,11.5,6.2
+,,Class B ,6 months,1000,,,,,
+,,Class C,15 days,700,,,,,
+Montana,MT,General,1 year,Not specified,o,,,12,12
+Nebraska,NE,Class I,1 year,1000,o,v,600,11.7,5.3
+,,Class II,6 months,1000,,,,,
+,,Class III,3 months,500,,,,,
+,,Class IIIA,7 days,500,,,,,
+,,Class IV,Not specified,500,,,,,
+,,Class V,Not specified,100,,,,,
+(Depend on conviction),,Class W,7 days to 1 years,500 - 1000,,,,,
+Nevada,NV,Gross,364 days,2000,o,v,1500,6,9
+,,General,6 months,1000,,,,,
+New Hampshire,NH,Class A,1 year,2000,o,v,1600,12,12
+,,Class B ,Crime specific,1200,,,,,
+New Jersey,NJ,Third degree,6 months,1000,x,v,750,5,3.5
+,,Fourth degree,30 days,500,,,,,
+New Mexico,NM,General,1 year,1000,o,,,6,9
+,,Petty,6 months,500,,,,,
+New York,NY,Class A,1 year,1000,o,v,750,9,7.5
+,,Class B ,3 months,500,,,,,
+,,Unclassified,Crime specific,Crime specific,,,,,
+North Carolina,NC,Class A1,150 days,Not specified,x,v,600,4.3,2.9
+,,Class 1,120 days,Not specified,,,,,
+,,Class 2,60 days,1000,,,,,
+,,Class 3,20 days,200,,,,,
+North Dakota,ND,Class A,360 days,3000,o,,,11,6.5
+,,Class B ,30 days,1500,,,,,
+Ohio,OH,First degree,180 days,1000,o,v,530,5,3
+,,Second degree,90 days,750,,,,,
+,,Third degree,60 days,500,,,,,
+,,Fourth degree,30 days,250,,,,,
+,,Minor,Not specified,150,,,,,
+Oklahoma,OK,General,1 year,500,o,,,12,12
+Oregon,OR,Class A,364 days,6250,o,,,11,6.3
+,,Class B ,6 months,2500,,,,,
+,,Class C,30 days,1250,,,,,
+,,Unclassified,Crime specific,Crime sepcific,,,,,
+Pennsylvania,PA,First degree,5 years,10000,o,v,5833.333333,48,32
+,,Second degree,2 years,5000,,,,,
+,,Third degree,1 year,2500,,,,,
+Rhode Island,RI,General,1 year,1000,o,v,750,6,9
+,,Petty,6 months,500,,,,,
+South Carolina,SC,Class A,3 years,N/A,o,,,,
+,,Class B ,2 years,N/A,,,,,
+,,Class C,1 year,N/A,,,,,
+South Dakota,SD,Class 1,1 year,2000,x,,,,
+,,Class 2,30 days,500,,,,,
+Tennessee,TN,Class A,"11 months, 29 days",2500,o,,,,
+,,Class B ,6 months,500,,,,,
+,,Class C,30 days,50,,,,,
+Texas,TX,Class A,1 year,4000,o,v,2166.666667,6,9
+,,Class B ,180 days,2000,,,,,
+,,Class C,Not specified,500,,,,,
+Utah,UT,Class A,1 year,2500,o,v,1416.666667,9,7
+,,Class B ,6 months,1000,,,,,
+,,Class C,90 days,750,,,,,
+Vermont,VT,General,2 years,2000,x,v,1166.666667,18,14
+,,,1 year,1000,,,,,
+,,,6 months,500,,,,,
+Virginia,VA,Class 1,12 months,2500,x,,,,
+,,Class 2,6 months,1000,,,,,
+,,Class 3,Not specified,500,,,,,
+,,Class 4,Not specified,250,,,,,
+Washington,WA,Gross,364 days,5000,o,v,3000,9,7.5
+,,General,90 days,1000,,,,,
+West Virginia,WV,General,Ordered by judge,Ordered by judge,o,,,,
+Wisconsin,WI,Class A,9 months,10000,o,v,3833.333333,8,4.3
+,,Class B,90 days,1000,,,,,
+,,Class C,30 days,500,,,,,
+Wyoming,WY,General,6 months,750,o,,,,

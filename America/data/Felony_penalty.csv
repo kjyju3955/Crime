@@ -1,0 +1,150 @@
+State,,,,,,Average,Sub
+Alabama,Class A,60000,10years-99years,,1188,402,1164
+,Class B,30000,2years-20years,,240,,
+,Class C,15000,366days-10years,,120,,
+,Class D,7500,366days-5years,,60,,
+Arizona,Class 1,,10years-death,150000,1188,246,1182
+,Class 2,,4years-10years,,120,,
+,Class 3,,2years-7.5years,,90,,
+,Class 4,,1.5years-3years,,36,,
+,Class 5,,9months-2years,,24,,
+,Class 6,,6months-18months,,18,,
+California,Robbery,,2years-6years,,72,333.6,1172
+,Assault,10000,16months-12years,,144,,
+,Rape,,3years-11years,,132,,
+,Homicide,,25years-death,,1188,,
+,Kidnapping,,3years-11years,,132,,
+Connecticut,Class A,20000,10years-50years,,600,315,588
+,Class B,15000,1year-40years,,480,,
+,Class C,10000,1year-10years,,120,,
+,Class D,5000,1year-5years,,60,,
+Florida,Capital,15000,forever-death,,1188,447,1128
+,First,10000,30years,,360,,
+,Second,10000,15years,,180,,
+,Third,5000,5years,,60,,
+Idaho,Robbery,,5years-forever,,1188,936,1176
+,Assault,,15years,,180,,
+,Rape,,1years-forever,,1188,,
+,Homicide,,Death,,1188,,
+Illinois,First,,20years-60years,,720,240,708
+,Class X,,6years-30years,,360,,
+,Class 1,,4years-15years,,180,,
+,Class 2,,3years-7years,,84,,
+,Class 3,,2years-5years,,60,,
+,Class 4,,1years-3years,,36,,
+Iowa,Class A,x,forever,,1188,417,1128
+,Class B,x,25years,,300,,
+,Class C,1000-10000,10years,,120,,
+,Class D,750-7500,5years,,60,,
+Kansas,Robbery,,11months-34months,,34,396.75,642
+,Assault,,55months-247months,,247,,
+,Rape,,653months-147months,,653,,
+,Homicide,,653months-147months,,653,,
+Kentucky,Class A,x,"20years-50years,forever",,1188,402,1176
+,Class B,x,10years-20years,,240,,
+,Class C,x,5years-10years,,120,,
+,Class D,x,1year-5years,,60,,
+Maine,Class A,50000,30years,,360,180,300
+,Class B,20000,10years,,120,,
+,Class C,5000,5years,,60,,
+Maryland,Robbery,,20years,,240,729,948
+,Assault,,25years,,300,,
+,Rape,,15years-forever,,1188,,
+,Homicide,,forever,,1188,,
+Massachusetts,Robbery,,2years-forever,,1188,906,1164
+,Assault,5000,5years,,60,,
+,Rape,,15years-forever,,1188,,
+,Homicide,,forever,,1188,,
+Michigan,Class A,,forever,,1188,265.7142857,1164
+,Class B,,20years,,240,,
+,Class C,,15years,,180,,
+,Class D,,10years,,120,,
+,Class E,,5years,,60,,
+,Class F,,4years,,48,,
+,Class G,,2years,,24,,
+,Class H,,variable,,,,
+Minnesota,Robbery,35000,20years,,240,507,948
+,Assault,30000,20years,,240,,
+,Rape,40000,30years,,360,,
+,Homicide,,forever,,1188,,
+Missouri,Class A,,10years-30years,,360,158.4,324
+,Class B,,5years-15years,,180,,
+,Class C,,3years-10years,,120,,
+,Class D,,7years,,84,,
+,Class E,,4years,,48,,
+Nebraska,Class I,x,Death,,1188,530.6666667,1176
+,Class IA,x,forever,,1188,,
+,Class IB,x,20years,,240,,
+,Class ID,x,5years-50years,,600,,
+,Class IE,x,3years-50years,,600,,
+,Class II,x,1year-50years,,600,,
+,Class III,25000,1year-20years,,240,,
+,Class IIIA,10000,5years,,60,,
+,Class IV,10000,5years,,60,,
+Nevada,Class A,x,forever-death,,1188,316.8,1176
+,Class B,x,1year-20years,,240,,
+,Class C,10000,1year-5years,,60,,
+,Class D,5000,1year-4years,,48,,
+,Class E,5000,1year-4years,,48,,
+New Hampshire,Class A,4000,7.5years-15years,,180,132,138
+,Class B,2000,3.5years-7years,,84,,
+New Jersey,First+,x,10years-forever,,1188,325.2,1170
+,First,x,10years-20years,,240,,
+,Second,x,5years-10years,,120,,
+,Third,x,3years-5years,,60,,
+,Fourth,x,18months,,18,,
+New York,Class AI,x,15years-25years,,300,168.8,288
+,Class AII,x,3years-8.4years,,100.8,,
+,Class B,x,1year-25years,,300,,
+,Class C,x,1year-15years,,180,,
+,Class D,x,1year-7years,,84,,
+,Class E,x,1year-4years,,48,,
+North Carolina,Class A,x,forever-death,,1188,221.9,1185
+,Class B1,x,144months,,144,,
+,Class B2,x,94months-393months,,393,,
+,Class C,x,44months-182months,,182,,
+,Class D,x,38months-160months,,140,,
+,Class E,x,15months-63months,,63,,
+,Class F,x,10months-41months,,41,,
+,Class G,x,8months-31months,,31,,
+,Class H,x,4months-25months,,25,,
+,Class I,x,3months-12months,,12,,
+Ohio,First,20000,3years-11years,,132,58.8,126
+,Second,15000,2years-8years,,96,,
+,Third,10000,9months-3years,,36,,
+,Fourth,5000,6months-18months,,18,,
+,Fifth,2500,6months-12months,,12,,
+Pennsylvania,First,25000,20years,,240,550,1104
+,Second,25000,10years,,120,,
+,Third,15000,7years,,84,,
+,First_murder,50000,forever-death,,1188,,
+,Second_murder,50000,forever,,1188,,
+,Third_murder,50000,40years,,480,,
+Rhode Island,Robbery,5000,10years,,120,417,1068
+,Assault,,20years,,240,,
+,Rape,,10years,,120,,
+,Homicide,,forever,,1188,,
+Texas,Capital,,forever-death,,1188,684,1164
+,First,10000,5years-99years,,1188,,
+,Second,10000,2years-20years,,240,,
+,Third,10000,2years-10years,,120,,
+Utah,Capital,,25years-death,,1188,372,1176
+,First,10000,5years,,60,,
+,Second,10000,1year-15years,,180,,
+,Third,5000,5years,,60,,
+Vermont,Robbery,,15years,,180,447,1008
+,Assault,,15years,,180,,
+,Rape,10000,20years,,240,,
+,Homicide,,forever,,1188,,
+Washington,Class A,50000,forever,,1188,456,1128
+,Class B,20000,10years,,120,,
+,Class C,10000,5years,,60,,
+Wisconsin,Class A,x,forever,,1188,361.3333333,1146
+,Class B,x,60years,,720,,
+,Class C,100000,40years,,480,,
+,Class D,100000,25years,,300,,
+,Class E,50000,15years,,180,,
+,Class F,25000,12.5years,,150,,
+,Class G,25000,10years,,120,,
+,Class H,10000,6years,,72,,
+,Class I,10000,3.5years,,42,,
